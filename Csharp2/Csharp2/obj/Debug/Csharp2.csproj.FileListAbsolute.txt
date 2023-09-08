@@ -1,0 +1,11 @@
+C:\Users\cocknballs\source\repos\Csharp2\Csharp2\bin\Debug\Csharp2.exe.config
+C:\Users\cocknballs\source\repos\Csharp2\Csharp2\bin\Debug\Csharp2.exe
+C:\Users\cocknballs\source\repos\Csharp2\Csharp2\bin\Debug\Csharp2.pdb
+C:\Users\cocknballs\source\repos\Csharp2\Csharp2\obj\Debug\Csharp2.csproj.AssemblyReference.cache
+C:\Users\cocknballs\source\repos\Csharp2\Csharp2\obj\Debug\Csharp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\cocknballs\source\repos\Csharp2\Csharp2\obj\Debug\Csharp2.Form1.resources
+C:\Users\cocknballs\source\repos\Csharp2\Csharp2\obj\Debug\Csharp2.Properties.Resources.resources
+C:\Users\cocknballs\source\repos\Csharp2\Csharp2\obj\Debug\Csharp2.csproj.GenerateResource.cache
+C:\Users\cocknballs\source\repos\Csharp2\Csharp2\obj\Debug\Csharp2.csproj.CoreCompileInputs.cache
+C:\Users\cocknballs\source\repos\Csharp2\Csharp2\obj\Debug\Csharp2.exe
+C:\Users\cocknballs\source\repos\Csharp2\Csharp2\obj\Debug\Csharp2.pdb

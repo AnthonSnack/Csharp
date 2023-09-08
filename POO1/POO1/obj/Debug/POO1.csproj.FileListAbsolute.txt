@@ -1,0 +1,12 @@
+C:\Users\cocknballs\source\repos\POO1\POO1\bin\Debug\POO1.exe.config
+C:\Users\cocknballs\source\repos\POO1\POO1\bin\Debug\POO1.exe
+C:\Users\cocknballs\source\repos\POO1\POO1\bin\Debug\POO1.pdb
+C:\Users\cocknballs\source\repos\POO1\POO1\obj\Debug\POO1.csproj.AssemblyReference.cache
+C:\Users\cocknballs\source\repos\POO1\POO1\obj\Debug\POO1.csproj.SuggestedBindingRedirects.cache
+C:\Users\cocknballs\source\repos\POO1\POO1\obj\Debug\POO1.Form1.resources
+C:\Users\cocknballs\source\repos\POO1\POO1\obj\Debug\POO1.Properties.Resources.resources
+C:\Users\cocknballs\source\repos\POO1\POO1\obj\Debug\POO1.csproj.GenerateResource.cache
+C:\Users\cocknballs\source\repos\POO1\POO1\obj\Debug\POO1.csproj.CoreCompileInputs.cache
+C:\Users\cocknballs\source\repos\POO1\POO1\obj\Debug\POO1.exe
+C:\Users\cocknballs\source\repos\POO1\POO1\obj\Debug\POO1.pdb
+C:\Users\cocknballs\source\repos\POO1\POO1\obj\Debug\POO1.Form2.resources

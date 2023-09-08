@@ -1,0 +1,11 @@
+C:\Users\cocknballs\source\repos\Csharp6\Csharp6\bin\Debug\Csharp6.exe.config
+C:\Users\cocknballs\source\repos\Csharp6\Csharp6\bin\Debug\Csharp6.exe
+C:\Users\cocknballs\source\repos\Csharp6\Csharp6\bin\Debug\Csharp6.pdb
+C:\Users\cocknballs\source\repos\Csharp6\Csharp6\obj\Debug\Csharp6.csproj.AssemblyReference.cache
+C:\Users\cocknballs\source\repos\Csharp6\Csharp6\obj\Debug\Csharp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\cocknballs\source\repos\Csharp6\Csharp6\obj\Debug\Csharp6.Form1.resources
+C:\Users\cocknballs\source\repos\Csharp6\Csharp6\obj\Debug\Csharp6.Properties.Resources.resources
+C:\Users\cocknballs\source\repos\Csharp6\Csharp6\obj\Debug\Csharp6.csproj.GenerateResource.cache
+C:\Users\cocknballs\source\repos\Csharp6\Csharp6\obj\Debug\Csharp6.csproj.CoreCompileInputs.cache
+C:\Users\cocknballs\source\repos\Csharp6\Csharp6\obj\Debug\Csharp6.exe
+C:\Users\cocknballs\source\repos\Csharp6\Csharp6\obj\Debug\Csharp6.pdb

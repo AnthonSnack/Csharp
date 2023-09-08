@@ -1,0 +1,10 @@
+C:\Users\cocknballs\source\repos\Csharp4\Csharp4\bin\Debug\Csharp4.exe.config
+C:\Users\cocknballs\source\repos\Csharp4\Csharp4\bin\Debug\Csharp4.exe
+C:\Users\cocknballs\source\repos\Csharp4\Csharp4\bin\Debug\Csharp4.pdb
+C:\Users\cocknballs\source\repos\Csharp4\Csharp4\obj\Debug\Csharp4.csproj.AssemblyReference.cache
+C:\Users\cocknballs\source\repos\Csharp4\Csharp4\obj\Debug\Csharp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\cocknballs\source\repos\Csharp4\Csharp4\obj\Debug\Csharp4.Properties.Resources.resources
+C:\Users\cocknballs\source\repos\Csharp4\Csharp4\obj\Debug\Csharp4.csproj.GenerateResource.cache
+C:\Users\cocknballs\source\repos\Csharp4\Csharp4\obj\Debug\Csharp4.csproj.CoreCompileInputs.cache
+C:\Users\cocknballs\source\repos\Csharp4\Csharp4\obj\Debug\Csharp4.exe
+C:\Users\cocknballs\source\repos\Csharp4\Csharp4\obj\Debug\Csharp4.pdb

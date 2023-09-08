@@ -1,0 +1,10 @@
+C:\Users\cocknballs\source\repos\Csharp3\Csharp3\bin\Debug\Csharp3.exe.config
+C:\Users\cocknballs\source\repos\Csharp3\Csharp3\bin\Debug\Csharp3.exe
+C:\Users\cocknballs\source\repos\Csharp3\Csharp3\bin\Debug\Csharp3.pdb
+C:\Users\cocknballs\source\repos\Csharp3\Csharp3\obj\Debug\Csharp3.csproj.AssemblyReference.cache
+C:\Users\cocknballs\source\repos\Csharp3\Csharp3\obj\Debug\Csharp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\cocknballs\source\repos\Csharp3\Csharp3\obj\Debug\Csharp3.Properties.Resources.resources
+C:\Users\cocknballs\source\repos\Csharp3\Csharp3\obj\Debug\Csharp3.csproj.GenerateResource.cache
+C:\Users\cocknballs\source\repos\Csharp3\Csharp3\obj\Debug\Csharp3.csproj.CoreCompileInputs.cache
+C:\Users\cocknballs\source\repos\Csharp3\Csharp3\obj\Debug\Csharp3.exe
+C:\Users\cocknballs\source\repos\Csharp3\Csharp3\obj\Debug\Csharp3.pdb
